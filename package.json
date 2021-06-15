@@ -1,5 +1,4 @@
 {
-  "homepage": "https://henrybalassiano.github.io/Tik-Tok-Clone/",
   "name": "tiktok-clone",
   "version": "0.1.0",
   "private": true,
@@ -28,7 +27,7 @@
     "react-window": "^1.8.6",
     "react-yall": "^0.1.7",
     "real-react-lazyload": "^1.0.2",
-    "swiper": "^6.7.0",
+    "swiper": "^6.4.5",
     "vanilla-lazyload": "^17.3.0",
     "web-vitals": "^0.2.4"
   },
